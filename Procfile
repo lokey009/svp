@@ -1,1 +1,1 @@
-worker: python sarkaruvaaripaata.py
+web: gunicorn gettingstarted.wsgi
